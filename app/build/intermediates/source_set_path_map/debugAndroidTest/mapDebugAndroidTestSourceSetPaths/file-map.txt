@@ -1,0 +1,5 @@
+com.example.madnewsapp.test.app-core-1.6.1-0 C:\Users\akshk\.gradle\caches\8.10.2\transforms\926a0c0d50717c520166623fcd3c2d1e\transformed\core-1.6.1\res
+com.example.madnewsapp.test.app-androidTest-1 D:\Programming\Android Studio\MADNEWSAPP\app\build\generated\res\resValues\androidTest\debug
+com.example.madnewsapp.test.app-mergeDebugAndroidTestResources-2 D:\Programming\Android Studio\MADNEWSAPP\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.madnewsapp.test.app-mergeDebugAndroidTestResources-3 D:\Programming\Android Studio\MADNEWSAPP\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.madnewsapp.test.app-debugAndroidTest-4 D:\Programming\Android Studio\MADNEWSAPP\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
